@@ -39,7 +39,7 @@ function Airplane(name) {
           + It should return a string with `name` and `age`. Example: "Mary, 50"
   */
   
- function Person() {
+ function Person(.) {
     
   }
  
